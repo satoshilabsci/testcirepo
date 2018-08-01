@@ -1,0 +1,10 @@
+testcat:
+        tags:
+                - mytrezor
+        script:
+                - cat test.txt
+
+testjob1:
+        tags:
+                - mytrezor
+        script: "echo Ahoj svete job1"
