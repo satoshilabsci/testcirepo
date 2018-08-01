@@ -2,7 +2,7 @@ testcat:
         tags:
                 - mytrezor
         script:
-                - cat test.txt
+                - cat test3.txt
 
 testjob1:
         tags:
